@@ -14,7 +14,7 @@ A responsive and interactive calculator app built using **HTML**, **CSS**, and *
 - Logo and Clean UI
 - Keyboard disabled for direct display editing
 
-🔗 **Live Demo:** [View here](https://genuineinsaan.github.io/oibsip/task2-calculator/)
+🔗 **Live Demo:** [View here](https://genuineinsaan.github.io/OIBSIP---Calculator/)
 
 ## 🛠️ Tech Stack
 
